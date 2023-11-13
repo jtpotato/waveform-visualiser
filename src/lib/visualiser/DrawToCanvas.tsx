@@ -1,5 +1,4 @@
 import { useEffect, useRef, useState } from "react";
-import WebmToMp4 from "./WebmToMp4";
 
 function DrawToCanvas({ heights }: { heights: number[] }) {
     const canvasEl = useRef<HTMLCanvasElement>(null);
@@ -66,7 +65,7 @@ function DrawToCanvas({ heights }: { heights: number[] }) {
 
     return (
         <>
-            <p>Sit tight! We're recording your video.</p>
+            <p>Sit tight! We&apos;re recording your video.</p>
             <div style={{ transform: "scale(0.25)" }}>
                 <canvas ref={canvasEl} width={windowWidth * (sampleWidth + spacing)} height="500"></canvas>
             </div>

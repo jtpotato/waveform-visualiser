@@ -15,11 +15,11 @@ function Home() {
 
         <h1 className="text-4xl font-bold">About</h1>
         <p>This page/applet/whatever you want to call it was made as a story element/prop for an upcoming secret project 🤫🤫🤫🤫</p>
-        <p>(That's why it looks reasonable... we can't mention design inspiration for copyright reasons though 😔)</p>
+        <p>(That&apos;s why it looks reasonable... we can&apos;t mention design inspiration for copyright reasons though 😔)</p>
         <br/>
         <p>If you wish to use this in your own projects, of course you can! No attribution required. Although we will take free promotion any day :P</p>
         <br/>
-        <p>Everything runs on-device, we swear. We literally cannot take your audio - we're a bit too poor for that 😭</p>
+        <p>Everything runs on-device, we swear. We literally cannot take your audio - we&apos;re a bit too poor for that 😭</p>
       </div>
     </main>
   </>)

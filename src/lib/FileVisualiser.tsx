@@ -15,7 +15,6 @@ function FileVisualiser({ file }: { file: File }) {
     }, [])
 
     return (<>
-        <p>Note: Icon buttons here are purely cosmetic and pretty useless.</p>
         <div className="h-1/4"></div>
         <DrawToCanvas heights={heights} />
     </>);
