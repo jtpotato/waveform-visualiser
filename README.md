@@ -1,7 +1,11 @@
 # waveform-visualiser
 
-Takes an audio file and creates a scrolling video of the waveform.
+> Two capabilities: 
+> - Takes an audio file and creates a scrolling video of the waveform.
+> - Plays an audio file through a custom player.
 
-More precise timing can then be done through editing. Output colours are optimised for editing (black/white, high contrast, easy to mask).
+---
 
-This project was used as a tool in [secret project 🔥].
+Output colours of the waveform visualiser are optimised for editing (black/white, high contrast, easy to mask).
+
+This project might be used as a tool in [secret project 🔥].
